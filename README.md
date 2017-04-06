@@ -194,7 +194,7 @@ LNC_1
 =============
 
 
-[![lnc1.jpg](https://s19.postimg.org/d45j7saxv/lnc1.jpg)](https://postimg.org/image/ydt5imr8f/)
+[![lnc1.jpg](https://s19.postimg.org/ralbwiacj/lnc1.jpg)](https://postimg.org/image/kww8t95gf/)
 
 
 So far, LNC1 identifies two categories of layouts:
