@@ -194,7 +194,7 @@ LNC_1
 =============
 
 
-[![lnc1.jpg](https://s19.postimg.org/r9bc9ljz7/lnc1.jpg)](https://postimg.org/image/phidep0m7/)
+[![lnc1.jpg](https://s19.postimg.org/d45j7saxv/lnc1.jpg)](https://postimg.org/image/ydt5imr8f/)
 
 
 So far, LNC1 identifies two categories of layouts:
@@ -212,8 +212,10 @@ This is a very common layout for websites.
 It has a top and a bottom part that remains the same across all the pages of the website.
 Then the middle part can be either one, two or three columns.
 
-All parts of this layout are includes, which allows us to code the layout and delegates the details
-to the implementor.
+The top and bottom parts are constant: their code won't change from page to page.
+But the middle part varies from page to page, and therefore is delegated to positions (so that the theme integrator
+can bound the desired widgets to them, depending on the page).
+
 
 
 splash layout
