@@ -194,7 +194,7 @@ LNC_1
 =============
 
 
-[![lnc1.jpg](https://s19.postimg.org/mohv265sz/lnc1.jpg)](https://postimg.org/image/8utid4d7j/)
+[![lnc1.jpg](https://s19.postimg.org/mpwe9bx0j/lnc1.jpg)](https://postimg.org/image/z4j69noin/)
 
 
 So far, LNC1 identifies three categories of layouts:
@@ -233,7 +233,7 @@ Depending on your business decisions, you could use a splash layout for pages li
 admin layout
 -------------
 This is a common layout for admins.
-It's basically like the sandwich layout 1 column, but with a side bar position on the side (usually left).
+It's basically like the sandwich layout 1 column, but with a side bar inclusion on the side (usually left).
 
 
 
