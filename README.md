@@ -194,14 +194,15 @@ LNC_1
 =============
 
 
-[![lnc1.jpg](https://s19.postimg.org/ralbwiacj/lnc1.jpg)](https://postimg.org/image/kww8t95gf/)
+[![lnc1.jpg](https://s19.postimg.org/mohv265sz/lnc1.jpg)](https://postimg.org/image/8utid4d7j/)
 
 
-So far, LNC1 identifies two categories of layouts:
+So far, LNC1 identifies three categories of layouts:
 
 
 - sandwich layouts
 - splash layouts
+- admin layouts
 
 
 
@@ -227,6 +228,12 @@ For instance, imagine an admin login screen with only one login form in the midd
 Depending on your business decisions, you could use a splash layout for pages like maintenance page, 404 page,
 403 page, error page, exception page, admin login page, and maybe other pages.
 
+
+
+admin layout
+-------------
+This is a common layout for admins.
+It's basically like the sandwich layout 1 column, but with a side bar position on the side (usually left).
 
 
 
