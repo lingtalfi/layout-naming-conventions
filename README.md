@@ -1,6 +1,6 @@
 Layout naming conventions
 ===========================
-2017-04-06
+2017-04-06 --> 2017-05-06
 
 
 
@@ -194,7 +194,7 @@ LNC_1
 =============
 
 
-[![lnc1.jpg](https://s19.postimg.org/mpwe9bx0j/lnc1.jpg)](https://postimg.org/image/z4j69noin/)
+[![lnc1.jpg](https://s19.postimg.org/6358cxkv7/lnc1.jpg)](https://postimg.org/image/vlxkpy4f3/)
 
 
 So far, LNC1 identifies three categories of layouts:
@@ -234,6 +234,12 @@ admin layout
 -------------
 This is a common layout for admins.
 It's basically like the sandwich layout 1 column, but with a side bar inclusion on the side (usually left).
+
+
+ajax layout
+-------------
+This is the simplest layout, it basically only displays a "main" position.
+It's like the splash layout, except that often the splash layout contains itself some html, while the ajax layout doesn't.
 
 
 
